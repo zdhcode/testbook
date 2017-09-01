@@ -4,8 +4,6 @@
   * [Section1.1](chapter1/section1.1.md)
   * [Section1.2](chapter1/section1.2.md)
 * [Chapter2](chapter2/README.md)
-  * [section2.1](/chapter2/section2.1.md)
-  * section2.2
 
 
 
